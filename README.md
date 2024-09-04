@@ -1,1 +1,4 @@
-Power converter and control of wind energy conversion system for maximum power extraction
+# Power converter and control of wind energy conversion system for maximum power extraction.
+
+### Description:
+  In this project, we studied how power electronics are revolutionizing wind energy, transforming it from a minor player into a major force in today's energy systems. We explored the challenges of integrating Wind Energy Conversion Systems (WECS) with the grid, a key focus area in renewable energy research. The project examined two different control strategies for DC-DC converters—one prioritizing voltage and the other current—and their impact on the control of active and reactive power. We also investigated the crucial role of Maximum Power Point Tracking (MPPT) in maximizing energy extraction from wind turbines. This project covers a range of power converter topologies and control techniques in WECS, along with the latest research trends in this field.
